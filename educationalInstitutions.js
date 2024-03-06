@@ -6,7 +6,7 @@ export const institutionsUtils = {
     },
     {
       thumbnail:
-        "https://upload.wikimedia.org/wikipedia/commons/f/f4/Nepal_Medical_College_%26_Teaching_Hospita%2C_Attarkhel%2C_Jorpati%2C_Kathmandu.jpg",
+        "https://res.cloudinary.com/dvj4qsyeu/image/upload/v1709710045/natur_uxmadf.png",
     },
   ],
 
