@@ -194,7 +194,7 @@ export const institutionsData = [
     alumniSuccessIds: [1, 2],
     insfrastructureIds: [1, 2],
     thumbnail:
-      "https://upload.wikimedia.org/wikipedia/commons/f/f4/Nepal_Medical_College_%26_Teaching_Hospita%2C_Attarkhel%2C_Jorpati%2C_Kathmandu.jpg",
+      "https://res.cloudinary.com/dvj4qsyeu/image/upload/v1709710062/first_xlvniz.jpg",
     description: "Leading institution for engineering studies",
     address: "Chabahil,Kathmandu",
     type: "College",
@@ -216,7 +216,7 @@ export const institutionsData = [
     alumniSuccessIds: [1, 2],
     insfrastructureIds: [1, 2],
     thumbnail:
-      "https://patch.com/img/cdn20/users/22844250/20210427/094626/styles/patch_image/public/bloomfield-highschool-googlemaps___27094435889.jpg",
+      "https://res.cloudinary.com/dvj4qsyeu/image/upload/v1709710043/bloom_zhfbyk.png",
     description: "Excellence in secondary education",
     address: "Birauta-17,Pokhara",
     type: "School",
@@ -238,8 +238,7 @@ export const institutionsData = [
     alumniSuccessIds: [1, 2],
     insfrastructureIds: [1, 2],
 
-    thumbnail:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGDneMiWOSVINeo8AoOTY9st--M2cQDTEr35n8R0XRDDj9aL3wR2j_qj8Zh9nVGSvkiE8&usqp=CAU",
+   thumbnail:"https://res.cloudinary.com/dvj4qsyeu/image/upload/v1709710061/global_ymad1h.jpg",
     description: "Nurturing creativity and artistic talent",
     address: "Kalanki,Kathmandu",
     type: "Institute",
@@ -262,9 +261,7 @@ export const institutionsData = [
     insfrastructureIds: [1, 2],
 
     thumbnail:
-      "https://scontent.fpkr1-1.fna.fbcdn.net/v/t39.30808-1/294635551_582874376959305_9050633898427379300_n.jpg?stp=c0.0.200.200a_dst-jpg_p200x200&_nc_cat=104&cb=99be929b-8d691acd&ccb=1-7&_nc_sid=596444&_nc_eui2=AeHoBPgtsPk1r6K-lp-QkFVjgjhVLvgsxiWCOFUu-CzGJVkYJwZGJg7fBYJUvR9Wbmc-X4kGcZUzwu890JUzsyKU&_nc_ohc=UssbGqTSv9oAX_t0Tcl&_nc_oc=AQm7QKsynviMEE4U8rmNnM45GxfvS9ZR3s8haNZfkjU3ymPtL1yz3Df78YBLJWotGcMAqcjOLAJJB9Hk0cJQl5a9&_nc_ht=scontent.fpkr1-1.fna&oh=00_AfByLH6Deyd4Ayrc1Jdg45Hmzgk8oJ-R_yCnwABncyO05g&oe=65EB62CF",
-    description: "Fostering innovation and technology",
-    address: "Banepa,Nepal",
+      "https://res.cloudinary.com/dvj4qsyeu/image/upload/v1709710027/innovativer_dyiiwp.jpg",
     type: "Academy",
     category: "Technology",
     accreditation_status: "Accredited",
@@ -284,7 +281,7 @@ export const institutionsData = [
     alumniSuccessIds: [1, 2],
     insfrastructureIds: [1, 2],
     thumbnail:
-      "https://ayurveda.com.np/wp-content/uploads/2023/07/ayurved-campust-visit.jpg.webp",
+      "https://res.cloudinary.com/dvj4qsyeu/image/upload/v1709710045/natur_uxmadf.png",
     description: "Preserving and studying natural sciences",
     address: "Dharan,Nepal",
     type: "Conservatory",
@@ -306,7 +303,7 @@ export const institutionsData = [
     alumniSuccessIds: [1, 2],
     insfrastructureIds: [1, 2],
     thumbnail:
-      "https://content.jdmagicbox.com/comp/chennai/30/044p5300730/catalogue/global-art-india-chennai-0zylxiwymx.jpg",
+      "https://res.cloudinary.com/dvj4qsyeu/image/upload/v1709710043/bindes_wshz7x.png",
     description: "Early education through Montessori method",
     address: "Narayngarh,Chitwan",
     type: "Preschool",
