@@ -8,6 +8,7 @@ export const usersData = [
     bio: "Creative Mind",
     address: "kupandole,Kathmandu",
     role: "USER",
+    thumbnail:"https://res.cloudinary.com/dvj4qsyeu/image/upload/v1709736551/pexels-photo-2379004_y2qddu.jpg",
   },
   {
     email: "anjansth@gmail.com",
@@ -18,6 +19,7 @@ export const usersData = [
     bio: "Passionate Learner",
     address: "Mahendrapool,Pokhara",
     role: "USER",
+    thumbnail:"https://res.cloudinary.com/dvj4qsyeu/image/upload/v1709735644/pep4_s8z0j9.jpg",
   },
   {
     email: "rokarajan@gmail.com",
@@ -28,6 +30,7 @@ export const usersData = [
     bio: "Aspiring mind",
     address: "Parsa,Chitwan",
     role: "USER",
+    thumbnail:"https://res.cloudinary.com/dvj4qsyeu/image/upload/v1709735643/pep3_xetaak.jpg",
   },
   {
     email: "thapamilan96@gmail.com",
@@ -38,6 +41,7 @@ export const usersData = [
     bio: "Adventorous",
     address: "Parsa,Chitwan",
     role: "USER",
+    thumbnail:"https://res.cloudinary.com/dvj4qsyeu/image/upload/v1709735643/pep6_xsqmag.avif",
   },
   {
     email: "sthsafal25.com",
@@ -48,7 +52,9 @@ export const usersData = [
     bio: "BookWorm",
     address: "Tadi,Chitwan",
     role: "USER",
+    thumbnail:"https://res.cloudinary.com/dvj4qsyeu/image/upload/v1709736266/white-male-student-notebook_tcm18-336857_ibglx5.jpg",
   },
+
   // New objects with real names, same password, and role "MENTOR"
   {
     email: "bhujelbishal23@gmail.com",
@@ -59,6 +65,7 @@ export const usersData = [
     bio: "Innovative",
     address: "Chabel,Kathmandu",
     role: "MENTOR",
+    thumbnail:"https://res.cloudinary.com/dvj4qsyeu/image/upload/v1709736266/3244_Home-for-Summer-S24-Rotator.rev.1702415677_qpmdu4.jpg",
   },
   {
     email: "ronishrai@gmail.com",
@@ -69,6 +76,7 @@ export const usersData = [
     bio: "Strategic Mind",
     address: "Itahari",
     role: "MENTOR",
+    thumbnail:"https://res.cloudinary.com/dvj4qsyeu/image/upload/v1709736266/college-student-glasses-backpack_bliunr.jpg",
   },
   {
     email: "sarahbhattarai@gmail.com",
@@ -79,6 +87,7 @@ export const usersData = [
     bio: "Enthusiastic Guider",
     address: "Address for Sarah",
     role: "MENTOR",
+    thumbnail:"https://res.cloudinary.com/dvj4qsyeu/image/upload/v1709736438/young-asian-woman-student-in-uniform-using-smartphone-about-work-there-are-many-documents-on-the-table-her-face-with-smiling-in-a-working-at-to-search-information-for-a-study-report-at-university-photo_zexk5n.jpg",
   },
   {
     email: "mikelshah@gmail.com",
@@ -89,6 +98,7 @@ export const usersData = [
     bio: "Inclusion mentor",
     address: "Thapathali,Kathmandu",
     role: "MENTOR",
+    thumbnail:"https://res.cloudinary.com/dvj4qsyeu/image/upload/v1709706318/samples/smile.jpg",
   },
   {
     email: "gyanwalitech@gmail.com",
@@ -99,17 +109,9 @@ export const usersData = [
     bio: "Compassionate",
     address: "Bagar,Pokhara",
     role: "MENTOR",
+    thumbnail:"https://res.cloudinary.com/dvj4qsyeu/image/upload/v1709706294/samples/people/smiling-man.jpg",
   },
-  {
-    email: "thapaamit@gmail.com",
-    firstname: "Amit",
-    lastname: "thapa",
-    username: "Coderamit",
-    password: "coder123",
-    bio: "Tech Enthusiast",
-    address: "Lalitpur",
-    role: "MENTOR",
-  },
+  
   {
     email: "girieva@gmail.com",
     firstname: "Eva",
@@ -119,6 +121,7 @@ export const usersData = [
     bio: "Diversified",
     address: "Bhaktapur",
     role: "MENTOR",
+    thumbnail:"https://res.cloudinary.com/dvj4qsyeu/image/upload/v1709735643/pep2_y373rr.jpg",
   },
   {
     email: "jamessth@gmail.com",
@@ -129,6 +132,7 @@ export const usersData = [
     bio: "Passionate ",
     address: "Birauta,Pokhara",
     role: "MENTOR",
+    thumbnail:"https://res.cloudinary.com/dvj4qsyeu/image/upload/v1709736668/What-Is-A-Sigma-Male-And-Their-Common-Personality-Trait-624x702_m8asne.jpg",
   },
   {
     email: "alishachetri@gmail.com",
@@ -139,6 +143,7 @@ export const usersData = [
     bio: "Live,Learn,Life",
     address: "Kalanki,Kathmandu",
     role: "MENTOR",
+    thumbnail:"https://res.cloudinary.com/dvj4qsyeu/image/upload/v1709735643/pep1_uufjiy.jpg",
   },
   // Remaining objects can follow a similar pattern
 ];

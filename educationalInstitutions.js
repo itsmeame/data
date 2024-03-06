@@ -216,7 +216,7 @@ export const institutionsData = [
     alumniSuccessIds: [1, 2],
     insfrastructureIds: [1, 2],
     thumbnail:
-      "https://res.cloudinary.com/dvj4qsyeu/image/upload/v1709710043/bloom_zhfbyk.png",
+      "https://res.cloudinary.com/dvj4qsyeu/image/upload/v1709734888/col2_hd5ztu.jpg",
     description: "Excellence in secondary education",
     address: "Birauta-17,Pokhara",
     type: "School",
@@ -238,7 +238,7 @@ export const institutionsData = [
     alumniSuccessIds: [1, 2],
     insfrastructureIds: [1, 2],
 
-   thumbnail:"https://res.cloudinary.com/dvj4qsyeu/image/upload/v1709710061/global_ymad1h.jpg",
+   thumbnail:"https://res.cloudinary.com/dvj4qsyeu/image/upload/v1709734892/col1_ug89l9.jpg",
     description: "Nurturing creativity and artistic talent",
     address: "Kalanki,Kathmandu",
     type: "School",
@@ -261,7 +261,7 @@ export const institutionsData = [
     insfrastructureIds: [1, 2],
 
     thumbnail:
-      "https://res.cloudinary.com/dvj4qsyeu/image/upload/v1709710027/innovativer_dyiiwp.jpg",
+      "https://res.cloudinary.com/dvj4qsyeu/image/upload/v1709735203/high_u7svio.jpg",
     type: "High School",
     category: "Private",
     accreditation_status: "Accredited",
@@ -303,7 +303,7 @@ export const institutionsData = [
     alumniSuccessIds: [1, 2],
     insfrastructureIds: [1, 2],
     thumbnail:
-      "https://res.cloudinary.com/dvj4qsyeu/image/upload/v1709712325/expert_kddrad.jpg",
+      "https://res.cloudinary.com/dvj4qsyeu/image/upload/v1709734870/EXP_eswjdu.jpg",
     description: "Preserving and studying natural sciences",
     address: "Dharan,Nepal",
     type: "Consultancy",
@@ -325,7 +325,7 @@ export const institutionsData = [
     alumniSuccessIds: [1, 2],
     insfrastructureIds: [1, 2],
     thumbnail:
-      "https://res.cloudinary.com/dvj4qsyeu/image/upload/v1709710043/bindes_wshz7x.png",
+      "https://res.cloudinary.com/dvj4qsyeu/image/upload/v1709735061/mont_todkix.jpg",
     description: "Early education through Montessori method",
     address: "Narayngarh,Chitwan",
     type: "school",
